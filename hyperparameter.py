@@ -1,0 +1,3 @@
+
+
+stockList = './data.csv'

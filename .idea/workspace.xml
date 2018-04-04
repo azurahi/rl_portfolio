@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d21f592a-2aa7-44cc-8b84-5a021e71d896" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input_portfolio.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aaa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/AK홀딩스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/CJ.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/CJ대한통운.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/DB손해보험.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/DB하이텍.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/GS건설.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/JW중외제약.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/KCC.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/KT&amp;G.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/KT.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/LG.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/LG상사.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/LS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/LS산전.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/NH투자증권.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/OCI.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/POSCO.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/S-Oil.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SBS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SKC.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SK네트웍스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SK디스커버리.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SK텔레콤.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SK하이닉스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/SPC삼립.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/경방.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/고려아연.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/고려제강.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/광동제약.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/금호석유.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/기아차.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/기업은행.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/남양유업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/남해화학.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/넥센타이어.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/녹십자.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/녹십자홀딩스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/농심.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/대덕전자.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/대림산업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/대상.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/대한유화.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/대한항공.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/동국제강.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/동서.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/동아쏘시오홀딩스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/동양.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/동원시스템즈.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/두산.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/롯데정밀화학.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/롯데지주.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/롯데칠성.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/롯데케미칼.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/롯데푸드.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/메리츠종금증권.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/무학.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/미래에셋대우.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/보령제약.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/부광약품.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/빙그레.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성SDI.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성엔지니어링.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성전기.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성전자.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성중공업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성증권.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼성화재.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/삼양홀딩스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/세방전지.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/세아베스틸.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/세아제강.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/신도리코.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/신세계.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/쌍용양회.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/쌍용차.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/아모레G.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/아이에스동서.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/에스엘.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/에스원.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/영진약품.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/영풍.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/오뚜기.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/오리온홀딩스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/우리은행.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/유한양행.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/일양약품.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/제일기획.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/종목.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/카카오.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/코웨이.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/태광산업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/팜스코.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/하이트진로.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한국가스공사.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한국단자.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한국쉘석유.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한국전력.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한국타이어월드와이드.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한미사이언스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한섬.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한솔케미칼.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한솔테크닉스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한온시스템.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한올바이오파마.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한일시멘트.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한화.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한화케미칼.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/한화테크윈.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대건설.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대그린푸드.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대모비스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대미포조선.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대산업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대엘리베이.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대제철.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대중공업.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대차.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/현대해상.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/호텔신라.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/효성.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kospi_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kospi_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/market_dqn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/market_pg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/000660.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/005380.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/005930.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/005935.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/012330.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/015760.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/028260.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/032830.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/035420.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample_data/090430.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/000660.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/005380.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/005930.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/005935.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/012330.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/015760.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/028260.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/032830.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/035420.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/data/090430.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/느시/env.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env.csv" afterPath="$PROJECT_DIR$/env.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock.csv" afterPath="$PROJECT_DIR$/stock.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyperparameter.py" afterPath="$PROJECT_DIR$/hyperparameter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market_env.py" afterPath="$PROJECT_DIR$/market_env.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/market_model_builder.py" afterPath="$PROJECT_DIR$/market_model_builder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.csv" afterPath="$PROJECT_DIR$/test.csv" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rl_portfolio$input_portfolio.coverage" NAME="input_portfolio Coverage Results" MODIFIED="1517977790040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rl_portfolio$market_pg.coverage" NAME="market_pg Coverage Results" MODIFIED="1517904782934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="market_env.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/market_env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2682">
+              <caret line="149" column="27" lean-forward="true" selection-start-line="149" selection-start-column="27" selection-end-line="149" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="market_model_builder.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio_learner.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio_learner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1170">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>verbose</find>
+      <find>reward</find>
+      <find>targetCodes</find>
+      <find>dataMap</find>
+      <find>tolist</find>
+      <find>inputs</find>
+      <find>futu</find>
+      <find>optimal</find>
+      <find>]:</find>
+      <find>step</find>
+      <find>targetDates</find>
+      <find>future</find>
+      <find>print</find>
+      <find>portfolio</find>
+      <find>scope</find>
+      <find>rewards</find>
+      <find>self.risk</find>
+      <find>self.cash</find>
+      <find>info</find>
+      <find>self.cum</find>
+      <find>self.tarEnd</find>
+      <find>self.tarEndDate</find>
+      <find>tar_end_date</find>
+      <find>endDate</find>
+      <find>startDate</find>
+      <find>start_date</find>
+      <find>reset</find>
+      <find>sdsd</find>
+      <find>discount</find>
+      <find>Market</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hyperparameter.py" />
+        <option value="$PROJECT_DIR$/data.csv" />
+        <option value="$PROJECT_DIR$/input_portfolio.py" />
+        <option value="$USER_HOME$/Desktop/stock_market_reinforcement_learning-master/market_pg.py" />
+        <option value="$PROJECT_DIR$/adj.py" />
+        <option value="$PROJECT_DIR$/test.csv" />
+        <option value="$PROJECT_DIR$/market_pg.py" />
+        <option value="$PROJECT_DIR$/market_model_builder.py" />
+        <option value="$PROJECT_DIR$/market_env.py" />
+        <option value="$PROJECT_DIR$/portfolio_learner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="34" />
+    <option name="width" value="1855" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rl_portfoli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rl_portfoli" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.input_portfolio">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="rl_portfolio" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration name="input_portfolio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_portfolio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="market_pg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl_portfolio" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/market_pg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.market_pg" />
+      <item index="1" class="java.lang.String" itemvalue="Python.input_portfolio" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.input_portfolio" />
+        <item index="1" class="java.lang.String" itemvalue="Python.market_pg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21f592a-2aa7-44cc-8b84-5a021e71d896" name="Default" comment="" />
+      <created>1516153261056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516153261056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="34" width="1855" height="1042" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.058760107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3384">
+          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3484" lean-forward="false" selection-start-line="0" selection-start-column="3484" selection-end-line="0" selection-end-column="3484" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperparameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/contrib/seq2seq/python/ops/beam_search_decoder.py" />
+    <entry file="file://$PROJECT_DIR$/dataMap.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1" column="1215" lean-forward="true" selection-start-line="1" selection-start-column="1215" selection-end-line="1" selection-end-column="1215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/stock_market_reinforcement_learning-master/market_env.py" />
+    <entry file="file://$USER_HOME$/Desktop/stock_market_reinforcement_learning-master/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/input_portfolio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="115" column="24" lean-forward="true" selection-start-line="115" selection-start-column="24" selection-end-line="115" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adj.py" />
+    <entry file="file://$PROJECT_DIR$/market_pg.py" />
+    <entry file="file://$PROJECT_DIR$/market_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2682">
+          <caret line="149" column="27" lean-forward="true" selection-start-line="149" selection-start-column="27" selection-end-line="149" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="0" column="1364" lean-forward="false" selection-start-line="0" selection-start-column="1364" selection-end-line="0" selection-end-column="1364" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_model_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio_learner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
